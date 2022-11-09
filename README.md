@@ -2,9 +2,11 @@
 
 This challenge consisted of building Superhero cards using React.
 
-## Force error page
+## external libraries
 
-Since no actual API was used to build this form, a mocked server error page can be triggered by setting the first name value to `forceError`
+the external library -React Query- was used in this challenge
+[here] (https://tanstack.com/query/v4/docs/overview) you can read all the documentation regarding it
+
 
 ## Check it out
 
