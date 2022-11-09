@@ -5,7 +5,7 @@ This challenge consisted of building Superhero cards using React.
 ## external libraries
 
 the external library -React Query- was used in this challenge
-[here] (https://tanstack.com/query/v4/docs/overview) you can read all the documentation regarding it
+[here](https://tanstack.com/query/v4/docs/overview) you can read all the documentation regarding it
 
 
 ## Check it out
